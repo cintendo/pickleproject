@@ -1,2 +1,3 @@
-Purpose
-Website for the best pickles in the world!!!
+PURPOSE:
+Freelance website for startup business making the best pickles in the world!!!
+
